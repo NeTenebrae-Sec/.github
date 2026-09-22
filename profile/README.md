@@ -1,6 +1,6 @@
-# [ NeTenebrae ] - Divulgación & Proyectos de Ciberseguridad y Sistemas
+# [ NeTenebrae ] - Proyectos de Ciberseguridad y Sistemas
 
-Espacio de desarrollo e investigación para la creación de herramientas de código abierto, documentación técnica y recursos educativos enfocados en **Ciberseguridad**, **Sistemas Operativos Linux** y **Automatización**.
+Espacio de desarrollo e investigación para la creación de herramientas de código abierto, documentación técnica y recursos educativos enfocados en **Ciberseguridad**, **Programación**, **Sistemas Linux** y **Automatización**.
 
 ---
 
