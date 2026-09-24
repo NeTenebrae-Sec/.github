@@ -47,7 +47,6 @@ Tecnologías, lenguajes y entornos utilizados en los proyectos:
 | :--- | :--- |
 | [**YouTube**](https://www.youtube.com/@NeTenebrae) | Tutoriales, análisis técnico y formación sobre Linux y hacking ético. |
 | [**Threads**](https://www.threads.com/@netenebrae) | Notas técnicas, actualizaciones y reflexiones rápidas sobre informática. |
-| [**LinkedIn**](https://www.linkedin.com/company/146611027/admin/dashboard/) | Actualizaciones del mundo Tech |
 
 
 ---
