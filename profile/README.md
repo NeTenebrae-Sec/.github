@@ -62,7 +62,6 @@ Tecnologías, lenguajes y entornos utilizados en los proyectos:
 | Plataforma | Tipo de Contenido |
 | :--- | :--- |
 | [![YouTube](https://img.shields.io/badge/YouTube-%40NeTenebrae-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeTenebrae) | Tutoriales, análisis técnico y formación sobre Linux y hacking ético. |
-| [![Threads](https://img.shields.io/badge/Threads-%40netenebrae-1F2937?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@netenebrae) | Notas técnicas, actualizaciones y reflexiones rápidas sobre informática. |
 
 ---
 
